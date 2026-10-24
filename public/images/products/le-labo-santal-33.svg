@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Santal 33">
+<defs><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".35" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></linearGradient></defs>
+<ellipse cx="300" cy="545" rx="130" ry="14" fill="#000" opacity=".28"/><path d="M205 300 Q205 235 260 235 L340 235 Q395 235 395 300 L395 505 Q395 525 375 525 L225 525 Q205 525 205 505 Z" fill="#d8cdb8"/><path d="M205 300 Q205 235 260 235 L340 235 Q395 235 395 300 L395 505 Q395 525 375 525 L225 525 Q205 525 205 505 Z" fill="url(#sh)"/><rect x="272" y="205" width="56" height="34" fill="#222"/><rect x="240" y="130" width="120" height="80" rx="8" fill="#8a8a8a"/>
+<rect x="238" y="372" width="124" height="76" rx="4" fill="#f6f3ed" opacity=".92"/>
+<text x="300" y="402" font-family="Georgia,serif" font-style="italic" font-size="15" text-anchor="middle" fill="#222">Santal 33</text>
+<line x1="270" x2="330" y1="415" y2="415" stroke="#b8893b"/>
+<text x="300" y="435" font-family="Arial,sans-serif" font-size="9" letter-spacing="2" text-anchor="middle" fill="#555">NICHE PERFUME INDIA</text></svg>

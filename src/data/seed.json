@@ -1,0 +1,1194 @@
+{
+ "products": [
+  {
+   "id": "p01",
+   "slug": "creed-aventus",
+   "name": "Aventus",
+   "brand": "Creed",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Smoky pineapple over birch and musk. The benchmark modern niche fragrance.",
+   "notes": [
+    "Pineapple",
+    "Birch",
+    "Musk"
+   ],
+   "image_url": "/images/products/creed-aventus.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 0
+  },
+  {
+   "id": "p02",
+   "slug": "maison-francis-kurkdjian-baccarat-rouge-540",
+   "name": "Baccarat Rouge 540",
+   "brand": "Maison Francis Kurkdjian",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Airy, sweet and mineral. Saffron and jasmine over a glowing amberwood base.",
+   "notes": [
+    "Saffron",
+    "Jasmine",
+    "Amberwood"
+   ],
+   "image_url": "/images/products/maison-francis-kurkdjian-baccarat-rouge-540.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 1
+  },
+  {
+   "id": "p03",
+   "slug": "parfums-de-marly-layton",
+   "name": "Layton",
+   "brand": "Parfums de Marly",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Fresh apple and lavender settling into a creamy vanilla and woods base.",
+   "notes": [
+    "Apple",
+    "Lavender",
+    "Vanilla"
+   ],
+   "image_url": "/images/products/parfums-de-marly-layton.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 2
+  },
+  {
+   "id": "p04",
+   "slug": "xerjoff-naxos",
+   "name": "Naxos",
+   "brand": "Xerjoff",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Honeyed tobacco with lavender and cinnamon, warm and gourmand.",
+   "notes": [
+    "Lavender",
+    "Honey",
+    "Tobacco"
+   ],
+   "image_url": "/images/products/xerjoff-naxos.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 3
+  },
+  {
+   "id": "p05",
+   "slug": "initio-oud-for-greatness",
+   "name": "Oud for Greatness",
+   "brand": "Initio",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Bold saffron and agarwood over a smooth musk. A statement fragrance.",
+   "notes": [
+    "Saffron",
+    "Oud",
+    "Musk"
+   ],
+   "image_url": "/images/products/initio-oud-for-greatness.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 4
+  },
+  {
+   "id": "p06",
+   "slug": "amouage-interlude-man",
+   "name": "Interlude Man",
+   "brand": "Amouage",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Smoky, spicy and resinous. A complex amber and incense composition.",
+   "notes": [
+    "Oregano",
+    "Amber",
+    "Incense"
+   ],
+   "image_url": "/images/products/amouage-interlude-man.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 5
+  },
+  {
+   "id": "p07",
+   "slug": "tom-ford-oud-wood",
+   "name": "Oud Wood",
+   "brand": "Tom Ford",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Rare oud and sandalwood softened by vanilla and amber.",
+   "notes": [
+    "Oud",
+    "Sandalwood",
+    "Vanilla"
+   ],
+   "image_url": "/images/products/tom-ford-oud-wood.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 6
+  },
+  {
+   "id": "p08",
+   "slug": "byredo-gypsy-water",
+   "name": "Gypsy Water",
+   "brand": "Byredo",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Woody and fresh with pine needles, incense and a vanilla finish.",
+   "notes": [
+    "Bergamot",
+    "Pine",
+    "Sandalwood"
+   ],
+   "image_url": "/images/products/byredo-gypsy-water.svg",
+   "is_featured": true,
+   "is_active": true,
+   "sort_order": 7
+  },
+  {
+   "id": "p09",
+   "slug": "le-labo-santal-33",
+   "name": "Santal 33",
+   "brand": "Le Labo",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Smoky sandalwood, leather and cedar. Dry, woody and distinctive.",
+   "notes": [
+    "Cardamom",
+    "Iris",
+    "Sandalwood"
+   ],
+   "image_url": "/images/products/le-labo-santal-33.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 8
+  },
+  {
+   "id": "p10",
+   "slug": "nishane-hacivat",
+   "name": "Hacivat",
+   "brand": "Nishane",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Fruity pineapple and bergamot with woods and a mossy dry down.",
+   "notes": [
+    "Pineapple",
+    "Oakmoss",
+    "Cedar"
+   ],
+   "image_url": "/images/products/nishane-hacivat.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 9
+  },
+  {
+   "id": "p11",
+   "slug": "maison-margiela-replica-jazz-club",
+   "name": "Replica Jazz Club",
+   "brand": "Maison Margiela",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Rum, tobacco leaf and vanilla. A cosy evening in a smoky jazz bar.",
+   "notes": [
+    "Rum",
+    "Tobacco",
+    "Vanilla"
+   ],
+   "image_url": "/images/products/maison-margiela-replica-jazz-club.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 10
+  },
+  {
+   "id": "p12",
+   "slug": "initio-side-effect",
+   "name": "Side Effect",
+   "brand": "Initio",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Boozy rum and tobacco with cinnamon and vanilla. Dark and addictive.",
+   "notes": [
+    "Rum",
+    "Tobacco",
+    "Vanilla"
+   ],
+   "image_url": "/images/products/initio-side-effect.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 11
+  },
+  {
+   "id": "p13",
+   "slug": "dior-sauvage-elixir",
+   "name": "Sauvage Elixir",
+   "brand": "Dior",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Concentrated spicy lavender with licorice and a warm woody base.",
+   "notes": [
+    "Grapefruit",
+    "Lavender",
+    "Licorice"
+   ],
+   "image_url": "/images/products/dior-sauvage-elixir.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 12
+  },
+  {
+   "id": "p14",
+   "slug": "kilian-angels-share",
+   "name": "Angels' Share",
+   "brand": "Kilian",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Cognac, cinnamon and praline over oak. Warm and indulgent.",
+   "notes": [
+    "Cognac",
+    "Cinnamon",
+    "Praline"
+   ],
+   "image_url": "/images/products/kilian-angels-share.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 13
+  },
+  {
+   "id": "p15",
+   "slug": "mykonos-marbella",
+   "name": "Marbella",
+   "brand": "Mykonos",
+   "inspired_by": "Giorgio Armani Power of You",
+   "gender": "Women",
+   "description": "A glowing, feminine blend of pear and jasmine over soft vanilla.",
+   "notes": [
+    "Pear",
+    "Jasmine",
+    "Vanilla"
+   ],
+   "image_url": "/images/products/mykonos-marbella.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 14
+  },
+  {
+   "id": "p16",
+   "slug": "mykonos-inception",
+   "name": "Inception",
+   "brand": "Mykonos",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Bright lemon and black tea resting on a clean musk base.",
+   "notes": [
+    "Lemon",
+    "Black Tea",
+    "Musk"
+   ],
+   "image_url": "/images/products/mykonos-inception.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 15
+  },
+  {
+   "id": "p17",
+   "slug": "mykonos-reflection",
+   "name": "Reflection",
+   "brand": "Mykonos",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Juicy grapefruit and peach with a soft musk. Fresh and easy to wear.",
+   "notes": [
+    "Grapefruit",
+    "Peach",
+    "Musk"
+   ],
+   "image_url": "/images/products/mykonos-reflection.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 16
+  },
+  {
+   "id": "p18",
+   "slug": "rasasi-hawas-ice",
+   "name": "Hawas Ice",
+   "brand": "Rasasi",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Icy aquatic freshness with apple and plum over musk.",
+   "notes": [
+    "Apple",
+    "Plum",
+    "Musk"
+   ],
+   "image_url": "/images/products/rasasi-hawas-ice.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 17
+  },
+  {
+   "id": "p19",
+   "slug": "afnan-supremacy-collector-s-edition",
+   "name": "Supremacy Collector's Edition",
+   "brand": "Afnan",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Fruity, fresh opening with a mossy woody dry down.",
+   "notes": [
+    "Pineapple",
+    "Orange Blossom",
+    "Oakmoss"
+   ],
+   "image_url": "/images/products/afnan-supremacy-collector-s-edition.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 18
+  },
+  {
+   "id": "p20",
+   "slug": "armaf-club-de-nuit-intense-man",
+   "name": "Club de Nuit Intense Man",
+   "brand": "Armaf",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Citrus and smoky birch with a long musky finish.",
+   "notes": [
+    "Lemon",
+    "Birch",
+    "Musk"
+   ],
+   "image_url": "/images/products/armaf-club-de-nuit-intense-man.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 19
+  },
+  {
+   "id": "p21",
+   "slug": "lattafa-khamrah",
+   "name": "Khamrah",
+   "brand": "Lattafa",
+   "inspired_by": "",
+   "gender": "Unisex",
+   "description": "Warm cinnamon, date and praline over vanilla and tonka.",
+   "notes": [
+    "Cinnamon",
+    "Date",
+    "Vanilla"
+   ],
+   "image_url": "/images/products/lattafa-khamrah.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 20
+  },
+  {
+   "id": "p22",
+   "slug": "lattafa-asad",
+   "name": "Asad",
+   "brand": "Lattafa",
+   "inspired_by": "",
+   "gender": "Men",
+   "description": "Spicy pepper, tobacco and vanilla. Dark, warm and long lasting.",
+   "notes": [
+    "Pepper",
+    "Tobacco",
+    "Vanilla"
+   ],
+   "image_url": "/images/products/lattafa-asad.svg",
+   "is_featured": false,
+   "is_active": true,
+   "sort_order": 21
+  }
+ ],
+ "variants": [
+  {
+   "id": "p01-sample-2",
+   "product_id": "p01",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 240,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p01-decant-5",
+   "product_id": "p01",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 450,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p01-decant-10",
+   "product_id": "p01",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 770,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p01-partial-25",
+   "product_id": "p01",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1540,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p01-retail-100",
+   "product_id": "p01",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 4650,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p02-sample-2",
+   "product_id": "p02",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 295,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p02-decant-5",
+   "product_id": "p02",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 565,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p02-decant-10",
+   "product_id": "p02",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 970,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p02-partial-25",
+   "product_id": "p02",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1945,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p02-retail-100",
+   "product_id": "p02",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 5890,
+   "stock": 2,
+   "is_active": true
+  },
+  {
+   "id": "p03-sample-2",
+   "product_id": "p03",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 180,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p03-decant-5",
+   "product_id": "p03",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 335,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p03-decant-10",
+   "product_id": "p03",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 570,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p03-partial-25",
+   "product_id": "p03",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1130,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p03-retail-100",
+   "product_id": "p03",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 3410,
+   "stock": 2,
+   "is_active": true
+  },
+  {
+   "id": "p04-sample-2",
+   "product_id": "p04",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 225,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p04-decant-5",
+   "product_id": "p04",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 420,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p04-decant-10",
+   "product_id": "p04",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 720,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p04-partial-25",
+   "product_id": "p04",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1435,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p05-sample-2",
+   "product_id": "p05",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 265,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p05-decant-5",
+   "product_id": "p05",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 510,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p05-decant-10",
+   "product_id": "p05",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 870,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p05-partial-25",
+   "product_id": "p05",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1740,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p06-sample-2",
+   "product_id": "p06",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 210,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p06-decant-5",
+   "product_id": "p06",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 395,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p06-decant-10",
+   "product_id": "p06",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 670,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p06-partial-25",
+   "product_id": "p06",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1330,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p06-retail-100",
+   "product_id": "p06",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 4030,
+   "stock": 2,
+   "is_active": true
+  },
+  {
+   "id": "p07-sample-2",
+   "product_id": "p07",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 195,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p07-decant-5",
+   "product_id": "p07",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 365,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p07-decant-10",
+   "product_id": "p07",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 620,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p07-partial-25",
+   "product_id": "p07",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1230,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p07-retail-100",
+   "product_id": "p07",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 3720,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p08-sample-2",
+   "product_id": "p08",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 180,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p08-decant-5",
+   "product_id": "p08",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 335,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p08-decant-10",
+   "product_id": "p08",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 570,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p08-partial-25",
+   "product_id": "p08",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1130,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p09-sample-2",
+   "product_id": "p09",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 190,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p09-decant-5",
+   "product_id": "p09",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 355,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p09-decant-10",
+   "product_id": "p09",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 600,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p09-partial-25",
+   "product_id": "p09",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1190,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p10-sample-2",
+   "product_id": "p10",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 150,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p10-decant-5",
+   "product_id": "p10",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 280,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p10-decant-10",
+   "product_id": "p10",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 470,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p10-partial-25",
+   "product_id": "p10",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 920,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p10-retail-100",
+   "product_id": "p10",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 2790,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p11-sample-2",
+   "product_id": "p11",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 105,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p11-decant-5",
+   "product_id": "p11",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 190,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p11-decant-10",
+   "product_id": "p11",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 320,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p11-partial-25",
+   "product_id": "p11",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 615,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p11-retail-100",
+   "product_id": "p11",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 1860,
+   "stock": 2,
+   "is_active": true
+  },
+  {
+   "id": "p12-sample-2",
+   "product_id": "p12",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 225,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p12-decant-5",
+   "product_id": "p12",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 420,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p12-decant-10",
+   "product_id": "p12",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 720,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p12-partial-25",
+   "product_id": "p12",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1435,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p13-sample-2",
+   "product_id": "p13",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 115,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p13-decant-5",
+   "product_id": "p13",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 205,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p13-decant-10",
+   "product_id": "p13",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 340,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p13-partial-25",
+   "product_id": "p13",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 655,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p13-retail-100",
+   "product_id": "p13",
+   "type": "retail",
+   "size_ml": 100,
+   "price": 1985,
+   "stock": 0,
+   "is_active": true
+  },
+  {
+   "id": "p14-sample-2",
+   "product_id": "p14",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 250,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p14-decant-5",
+   "product_id": "p14",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 480,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p14-decant-10",
+   "product_id": "p14",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 820,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p14-partial-25",
+   "product_id": "p14",
+   "type": "partial",
+   "size_ml": 25,
+   "price": 1640,
+   "stock": 3,
+   "is_active": true
+  },
+  {
+   "id": "p15-sample-2",
+   "product_id": "p15",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 120,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p15-decant-5",
+   "product_id": "p15",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 215,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p15-decant-10",
+   "product_id": "p15",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 360,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p16-sample-2",
+   "product_id": "p16",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 120,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p16-decant-5",
+   "product_id": "p16",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 220,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p16-decant-10",
+   "product_id": "p16",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 370,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p17-sample-2",
+   "product_id": "p17",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 105,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p17-decant-5",
+   "product_id": "p17",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 190,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p17-decant-10",
+   "product_id": "p17",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 320,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p18-sample-2",
+   "product_id": "p18",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 100,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p18-decant-5",
+   "product_id": "p18",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 180,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p18-decant-10",
+   "product_id": "p18",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 300,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p19-sample-2",
+   "product_id": "p19",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 115,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p19-decant-5",
+   "product_id": "p19",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 210,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p19-decant-10",
+   "product_id": "p19",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 350,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p20-sample-2",
+   "product_id": "p20",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 90,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p20-decant-5",
+   "product_id": "p20",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 165,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p20-decant-10",
+   "product_id": "p20",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 270,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p21-sample-2",
+   "product_id": "p21",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 85,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p21-decant-5",
+   "product_id": "p21",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 145,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p21-decant-10",
+   "product_id": "p21",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 240,
+   "stock": 18,
+   "is_active": true
+  },
+  {
+   "id": "p22-sample-2",
+   "product_id": "p22",
+   "type": "sample",
+   "size_ml": 2,
+   "price": 80,
+   "stock": 25,
+   "is_active": true
+  },
+  {
+   "id": "p22-decant-5",
+   "product_id": "p22",
+   "type": "decant",
+   "size_ml": 5,
+   "price": 135,
+   "stock": 30,
+   "is_active": true
+  },
+  {
+   "id": "p22-decant-10",
+   "product_id": "p22",
+   "type": "decant",
+   "size_ml": 10,
+   "price": 220,
+   "stock": 18,
+   "is_active": true
+  }
+ ]
+}
