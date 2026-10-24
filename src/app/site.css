@@ -269,3 +269,22 @@ main:not(:has(#home))::before, main:not(:has(#home))::after {
   .price { font-size: 19px; text-align: center; }
   .add-btn { justify-content: center; padding: 11px 6px; font-size: 11px; letter-spacing: .1em; border-radius: 9px; }
 }
+/* ===== CLEAN MOBILE CARD ===== */
+@media (max-width: 540px) {
+  .pcard { border: 1px solid rgba(230,189,85,.28); border-radius: 18px; padding: 10px 10px 12px; background: transparent; display: flex; flex-direction: column; }
+  body.glass .pcard { border-color: rgba(0,0,0,.55); }
+  .pcard-img { background: transparent; border: 0; border-radius: 12px; }
+  .pcard-img img { width: 86%; height: 86%; }
+  .pcard-body { padding: 8px 0 0; text-align: center; flex: 1; display: flex; flex-direction: column; }
+  .brand { color: var(--accent); font-weight: 600; }
+  body.glass .brand { color: #8a6410; }
+  .pcard h3 { font-size: 16px; margin: 4px 0 10px; }
+  .chips { justify-content: center; gap: 2px; flex-wrap: nowrap; margin-bottom: 10px; }
+  .chip { flex: 0 1 auto; min-width: 0; padding: 6px 5px; border: 1px solid transparent; font-size: 10px; letter-spacing: .03em; background: none; }
+  .chip.sel { border-color: var(--accent); color: var(--fg); }
+  body.glass .chip.sel { border-color: #1b1711; }
+  .pcard-foot { flex-direction: column; align-items: stretch; gap: 8px; margin-top: auto; padding-top: 10px; border-top: 1px solid var(--line); }
+  .price { font-size: 18px; text-align: center; }
+  .add-btn { background: transparent; color: var(--fg); border: 1px solid var(--accent); justify-content: center; padding: 10px 6px; font-size: 11px; border-radius: 9px; }
+  body.glass .add-btn { background: transparent; color: #1b1711; border-color: #1b1711; }
+}
