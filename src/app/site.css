@@ -252,20 +252,20 @@ main:not(:has(#home))::before, main:not(:has(#home))::after {
   .framed::before, .framed::after,
   main:not(:has(#home))::before, main:not(:has(#home))::after { width: 22px; }
 }
-/* ===== MOBILE: 3 product cards per row ===== */
+/* ===== MOBILE: 2 product cards per row ===== */
 @media (max-width: 540px) {
   .wrap { width: calc(100% - 12px); }
-  .grid-products { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
-  .pcard-img { border-radius: 14px; }
-  .pcard-img img { width: 84%; height: 84%; }
-  .badge { top: 6px; left: 6px; font-size: 7px; padding: 3px 6px; letter-spacing: .06em; }
-  .pcard-body { padding: 8px 2px 0; }
-  .brand { font-size: 8px; letter-spacing: .08em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .pcard h3 { font-size: 13px; margin: 4px 0 8px; line-height: 1.2; min-height: 2.4em; }
+  .grid-products { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .pcard-img { border-radius: 16px; }
+  .pcard-img img { width: 82%; height: 82%; }
+  .badge { top: 8px; left: 8px; font-size: 8px; padding: 4px 8px; }
+  .pcard-body { padding: 12px 2px 0; }
+  .brand { font-size: 9px; letter-spacing: .12em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .pcard h3 { font-size: 17px; margin: 6px 0 10px; line-height: 1.2; min-height: 2.4em; }
   .notes-line { display: none; }
-  .chips { gap: 4px; }
-  .chip { min-width: 0; padding: 6px 2px; font-size: 9px; letter-spacing: .03em; border-radius: 7px; }
-  .pcard-foot { flex-direction: column; align-items: stretch; gap: 6px; margin-top: 8px; }
-  .price { font-size: 14px; text-align: center; }
-  .add-btn { justify-content: center; padding: 8px 4px; font-size: 9px; letter-spacing: .08em; border-radius: 7px; }
+  .chips { gap: 6px; }
+  .chip { min-width: 0; padding: 9px 4px; font-size: 10px; letter-spacing: .06em; border-radius: 8px; }
+  .pcard-foot { flex-direction: column; align-items: stretch; gap: 8px; margin-top: 12px; }
+  .price { font-size: 19px; text-align: center; }
+  .add-btn { justify-content: center; padding: 11px 6px; font-size: 11px; letter-spacing: .1em; border-radius: 9px; }
 }
